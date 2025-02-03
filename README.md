@@ -97,13 +97,7 @@ Enjoy the diverse features of the QUEEN-RASHU-MD  to enhance your conversations 
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94727319036)
+- [**Youtube**]
+(https://youtube.com/@rashumodz_0715?si=5pg_wumwy6VzizMP)
 
 
-
-## github workflows deploy
-
-● github/workflows/deploy.yml
-
-_______________________________________
-
-wa.me/94727319036
