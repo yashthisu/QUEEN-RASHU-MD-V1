@@ -17,7 +17,7 @@
 </p>
 🌟 𝗤𝗨𝗘𝗘𝗡 𝗥𝗔𝗦𝗛𝗨 𝗠𝗗 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 🌟
 
-<a href="https://youtube.com/@rashumodz_0715?si=5pg_wumwy6VzizMP/"><img src="https://img.shields.io/badge/RASHU-WEB%20SITE-red" alt="RASHU YOUTUBE" width="250"></a>
+<a href="https://queen-rashu-sesion-7bdf00f2fa51.herokuapp.com/"><img src="https://img.shields.io/badge/RASHU-WEB%20SITE-red" alt="RASHU WEB" width="250"></a>
 
 **`𝗤𝗨𝗘𝗘𝗡 𝗥𝗔𝗦𝗛𝗨 𝗠𝗗 𝗕𝗢𝗧`**
 
