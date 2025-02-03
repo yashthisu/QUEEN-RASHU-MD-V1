@@ -15,7 +15,7 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗤𝗨𝗘𝗘𝗡 𝗥𝗔𝗦𝗛𝗨 𝗠𝗗 𝗬𝗢𝗨𝗧𝗨𝗕𝗘 🌟
+🌟 𝗤𝗨𝗘𝗘𝗡 𝗥𝗔𝗦𝗛𝗨 𝗠𝗗 𝗪𝗘𝗕 🌟
 
 <a href="https://queen-rashu-sesion-7bdf00f2fa51.herokuapp.com/"><img src="https://img.shields.io/badge/RASHU-WEB%20SITE-red" alt="RASHU WEB" width="250"></a>
 
