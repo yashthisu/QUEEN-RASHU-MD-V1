@@ -23,11 +23,11 @@
 
 ##  PAIRING CODE SCAN SAVER 01
 
-<a href="https://lithu-md-pair-13dc62a31d33.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://queen-rashu-sesion-7bdf00f2fa51.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## PAIRING CODE SCAN SAVER 02
 
-<a href="https://paircoderashu-da08a61d6074.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://queen-rashu-sesion-7bdf00f2fa51.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NipunHarshana0/QUEEN-RASHU-MD-V1/)
