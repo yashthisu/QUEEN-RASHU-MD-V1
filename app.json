@@ -1,28 +1,29 @@
 {
-  "name": "QUEEN-RASHU",
-  "description": "Powerd By Queen Rashu Md",
-  "logo": "https://i.ibb.co/BsjkCDP/9555.jpg",
-  "keywords": ["rashumd", "bot", "whatsapp bot", "multi device", "rashu-md"],
+  "name": "LAKA-MD-V1",
+  "description": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ʟᴀᴋᴀ-ᴍᴅ 🌟",
+  "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
+  "keywords": ["bot"],
   "success_url": "/",
 
+    "stack": "container",
   "env": {
     "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
-            "required": true,
-            "value": "Past Your Session Id"
-        {
-    "MONGODB": {
-            "description": "Type the Mongo DB Url",
-            "required": true,
-            "value": "Past Your MongoDB Url"
-    }
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": ""
+      
     },
-         "buildpacks": [
+    "MONGODB": {
+      "description": "Put your MongoDB Database URL here.",
+      "required": true,
+      "default": ""
+
+},
+
+     "buildpacks": [
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
   "stack": "heroku-24"
-  
-  
 }
