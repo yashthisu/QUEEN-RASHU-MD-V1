@@ -13,7 +13,7 @@
         }
     },
     
-    "MONGODB_URL": {
+    "MONGODB": {
             "description": "Type the Mongo DB Url",
             "required": true,
             "value": "Past Your MongoDB Url"
