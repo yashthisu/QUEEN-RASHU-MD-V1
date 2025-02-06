@@ -30,7 +30,7 @@
 <a href="https://queen-rashu-sesion-7bdf00f2fa51.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NipunHarshana0/QUEEN-RASHU-MD-V1/)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FNipunHarshana1119%2FQUEEN-RASHU-MD-V1.git)
 
    </details>
 </P>
