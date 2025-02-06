@@ -1,15 +1,22 @@
 {
-  "name": "LAKA-MD",
-  "description": "Powerd By Laka Md",
-  "logo": "https://i.ibb.co/sKmDFhk/7919.jpg",
-  "keywords": ["lakamd", "bot", "whatsapp bot", "multi device", "laka-md"],
+  "name": "QUEEN_RASHU",
+  "description": "Powerd By Queen Rashu Md",
+  "logo": "https://i.ibb.co/BsjkCDP/9555.jpg",
+  "keywords": ["rashumd", "bot", "whatsapp bot", "multi device", "rashu-md"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "Past Your Session Id"
+        }
+    },
+    
+    "MONGODB_URL": {
+            "description": "Type the Mongo DB Url",
+            "required": true,
+            "value": "Past Your MongoDB Url"
         }
     },
          "buildpacks": [
